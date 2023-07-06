@@ -1,2 +1,2 @@
-#!/bin/bashi
-ls -l
+#!/bin/bash 
+ls -lan 
